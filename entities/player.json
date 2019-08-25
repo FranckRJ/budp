@@ -1,0 +1,135 @@
+{
+	"componentPosition": true,
+	"componentRender":
+	{
+		"file": "playerSprite.png",
+		"marginX": -5,
+		"marginY": -25,
+		"subTextureX": 0,
+		"subTextureY": 0,
+		"subTextureW": 45,
+		"subTextureH": 66
+	},
+	"componentCollideBox":
+	{
+		"sizeX": 35,
+		"sizeY": 35,
+		"isSolid": false
+	},
+	"componentInput": true,
+	"componentMovable":
+	{
+		"speed": 5
+	},
+	"componentDirection":
+	{
+		"defaultDirection": "down"
+	},
+	"componentAnimation":
+	{
+		"standLeft":
+		{
+			"images":
+			[
+				{
+					"posX": 138,
+					"posY": 0
+				}
+			],
+			"imageDuration": 999999
+		},
+		"standRight":
+		{
+			"images":
+			[
+				{
+					"posX": 138,
+					"posY": 67
+				}
+			],
+			"imageDuration": 999999
+		},
+		"standUp":
+		{
+			"images":
+			[
+				{
+					"posX": 0,
+					"posY": 67
+				}
+			],
+			"imageDuration": 999999
+		},
+		"standDown":
+		{
+			"images":
+			[
+				{
+					"posX": 0,
+					"posY": 0
+				}
+			],
+			"imageDuration": 999999
+		},
+		"walkLeft":
+		{
+			"images":
+			[
+				{
+					"posX": 184,
+					"posY": 0
+				},
+				{
+					"posX": 230,
+					"posY": 0
+				}
+			],
+			"imageDuration": 10
+		},
+		"walkRight":
+		{
+			"images":
+			[
+				{
+					"posX": 184,
+					"posY": 67
+				},
+				{
+					"posX": 230,
+					"posY": 67
+				}
+			],
+			"imageDuration": 10
+		},
+		"walkUp":
+		{
+			"images":
+			[
+				{
+					"posX": 46,
+					"posY": 67
+				},
+				{
+					"posX": 92,
+					"posY": 67
+				}
+			],
+			"imageDuration": 10
+		},
+		"walkDown":
+		{
+			"images":
+			[
+				{
+					"posX": 46,
+					"posY": 0
+				},
+				{
+					"posX": 92,
+					"posY": 0
+				}
+			],
+			"imageDuration": 10
+		}
+	}
+}

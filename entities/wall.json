@@ -1,0 +1,16 @@
+{
+	"componentPosition": true,
+	"componentRender":
+	{
+		"file": "case.png",
+		"subTextureX": 45,
+		"subTextureY": 45,
+		"subTextureW": 45,
+		"subTextureH": 45
+	},
+	"componentCollideBox":
+	{
+		"sizeX": 45,
+		"sizeY": 45
+	}
+}

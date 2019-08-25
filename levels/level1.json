@@ -1,0 +1,30 @@
+{
+	"entities":
+	[
+		{
+			"name": "wall",
+			"posX": 500,
+			"posY": 100
+		},
+		{
+			"name": "wall",
+			"posX": 500,
+			"posY": 145
+		},
+		{
+			"name": "wall",
+			"posX": 500,
+			"posY": 190
+		},
+		{
+			"name": "ground",
+			"posX": 350,
+			"posY": 250
+		},
+		{
+			"name": "ground",
+			"posX": 350,
+			"posY": 295
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"componentPosition": true,
+	"componentRender":
+	{
+		"file": "case.png",
+		"subTextureX": 0,
+		"subTextureY": 0,
+		"subTextureW": 45,
+		"subTextureH": 45,
+		"forceYRender": true,
+		"yRenderPos": -10
+	}
+}
