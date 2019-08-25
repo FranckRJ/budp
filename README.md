@@ -1,1 +1,3 @@
-budp
+# budp
+
+Bomberman en réseau.
